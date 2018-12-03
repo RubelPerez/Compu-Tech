@@ -1,0 +1,96 @@
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\bin\Debug\CompuTech.exe
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\bin\Debug\CompuTech.pdb
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmLogin.resources
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmSplash.resources
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.Properties.Resources.resources
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.csproj.GenerateResource.Cache
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.exe
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.pdb
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmMenuAdmin.resources
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmMenuEmp.resources
+c:\users\joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmAgregarCliente.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.csprojResolveAssemblyReference.cache
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmAgregarProveedor.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmModificarProveedor.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmAgregarEmpleado.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmAgregarArticulo.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaArticulos.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaCliente.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaProveedores.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaEmpleados.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\bin\Debug\CompuTech.exe.config
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmReporteNuevo.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmParametro.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmPais.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmCiudad.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmEstadoCivil.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmProvincia.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmSangre.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmMarca.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmModelo.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmProducto.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\RdlCompile.cache
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmImagen.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmEliminarArticulo.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmUsuario.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmImagenCliente.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmImagenEmpleado.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmImagenProveedor.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmFactura.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmCompra.resources
+C:\Users\Joanna\documents\visual studio 2010\Projects\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmServicio.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmAgregarArticulo.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmAgregarCliente.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmAgregarEmpleado.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmAgregarProveedor.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmCable.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmCiudad.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmCompra.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaArticulos.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaCliente.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaEmpleadoRed.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaEmpleados.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmConsultaProveedores.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmEliminarArticulo.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmEstadoCivil.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmFactura.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmFacturaContado.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmFacturaCredito.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmFacturaIguala.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmImagen.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmImagenCliente.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmImagenEmpleado.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmImagenProveedor.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmLogin.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmMantenimientoRed.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmMarca.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmMenuAdmin.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmMenuEmp.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmModelo.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmModificarProveedor.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmPais.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmParametro.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmProducto.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmProvincia.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmRedes.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmReporteNuevo.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmRocetas.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmSangre.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmServicio.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmServidor.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmSplash.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmSwitch.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmTarjeta.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmUsuario.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.Properties.Resources.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.csproj.GenerateResource.Cache
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\RdlCompile.cache
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\bin\Debug\CompuTech.exe.config
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\bin\Debug\CompuTech.exe
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\bin\Debug\CompuTech.pdb
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FacturaIguala.resources
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.exe
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.pdb
+C:\Users\Azkenat\Desktop\13-nov-2014 computech\CompuTech\CompuTech\obj\x86\Debug\CompuTech.FrmFiltroEmpresa.resources
